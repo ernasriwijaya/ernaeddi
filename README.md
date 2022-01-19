@@ -1,4 +1,4 @@
-### Hi There!
+### Hi there!
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong>
 - 🌱 I’m currently learning <strong>Laravel Framework</strong>
